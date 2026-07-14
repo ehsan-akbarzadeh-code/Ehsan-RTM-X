@@ -1,1 +1,3 @@
 
+//@version=6
+indicator("Ehsan RTM X", overlay=true)
